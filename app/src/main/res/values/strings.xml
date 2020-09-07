@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="save">SAVE</string>
+    <string name="show_data">SHOW_DATA</string>
+    <string name="edit_text">EDIT_TEXT</string>
+    <string name="delete_data">DELETE_DATA</string>
+    <string name="data_from_the_database_is_displayed_here">Data from the Database is displayed here!</string>
+</resources>
